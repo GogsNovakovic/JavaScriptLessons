@@ -1,0 +1,12 @@
+/* Programski jezici vs JavaScript */
+
+// C, C#, Java, C++, Go i slični jezici, su strongly typed jezici. 
+// Strongly typed jezici su oni kojima je potrebno definirati podatkovni tip varijable koju ćemo koristiti.
+// Zašto je to bitno? 
+// Kod korištenja varijabli, računalo mora spremiti te vrijednosti negdje u memoriju. 
+// Kada definirano o kojem se podatkovnom tipu radi, računalo zna koliko memorije mora rezervirati za tu varijablu.
+
+// Podatkovni tipovi su: int, string, bool, char, array...
+
+// JavaScript nije. JS je loosely typed. 
+// U JavaScriptu nije potrebno definirati podatkovni tip varijable.
